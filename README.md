@@ -1,7 +1,7 @@
 # Personal Task Manager
 
 This project is a comprehensive web application built with Svelte and SvelteKit, designed to help users manage their daily tasks. 
-The application supports user authentication, task creation, updating, deletion, and categorization. Users can filter tasks by category, due date, and status.
+The application supports user authentication, task creation, updating, deletion, and categorization. Users can filter tasks by category and due date.
 
 
 ## Features
